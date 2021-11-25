@@ -1,0 +1,19 @@
+* {margin: 0%; padding: 0; font-family: sans-serif;}
+.icon {width: 50px; height: 50px; background-image: url(../img/krol.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 100px; box-shadow: 0 0 0 0.75px rgb(230, 230, 230), 0 0 0 2.25px rgb(255, 255, 255), 0 0 0 3px rgb(230, 230, 230);}
+.containa {display: flex;}
+p {color:rgb(175, 175, 175); margin-top: 0px;}
+.align {align-items: center;}
+.niz {background-color: rgb(247, 248, 248); padding: 8px; padding-right: 15px; padding-left: 15px; box-shadow: 0 0 14px rgba(0, 0, 0, 0.144);}
+.verh {background-color: white; margin-bottom: 3px; box-shadow: 0 0 14px rgba(0, 0, 0, 0.144); padding: 15px;}
+.korobka {width: 250px; margin: 20px;}
+.between {justify-content: space-between;}
+.margin-right {margin-right: 10px;}
+.cifra {margin-bottom: 7px; margin-top: 7px; color:rgb(128, 128, 128);}
+.cvet {color:rgb(153, 153, 153);}
+.big {font-size: 170%; color: rgb(46, 46, 46); margin-bottom: 0px;}
+.planned {border-right: 2px solid rgb(224, 224, 224); padding: 15px;}
+.progresus {border-right: 2px solid rgb(224, 224, 224); padding: 15px;}
+.zag {font-size: 155%; color: rgb(46, 46, 46); margin: 20px;}
+.containaa {display: flex; justify-content: center;}
+.adin {position: relative; left: -15px}
+.dva {position: relative; left: -30px}
